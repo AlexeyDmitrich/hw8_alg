@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a7a329-0d8f-4f06-95ee-4617125d5bc9" name="Changes" comment="v.1.0.0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/Hashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/HashtableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/Product.java" afterDir="false" />
+    <list default="true" id="76a7a329-0d8f-4f06-95ee-4617125d5bc9" name="Changes" comment="v.1.0.1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/HashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/HashTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/HashtableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a/kamenev/gb/hw/HashtableImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665585979099</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v.1.0.1">
+      <created>1665596037573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665596037573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.1.0.0" />
+    <MESSAGE value="v.1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.1.0.1" />
   </component>
 </project>

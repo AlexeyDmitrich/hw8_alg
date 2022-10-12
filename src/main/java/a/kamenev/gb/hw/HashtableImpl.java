@@ -35,12 +35,12 @@ public class HashtableImpl <K, V> implements Hashtable<K, V>{
         }
     }
 
-    public HashTableImpl(int initialCapacity) {
+    public HashtableImpl(int initialCapacity) {
         this.data = new Item[initialCapacity * 2];
         emptyItem = new Item<>(null, null);
     }
 
-    public HashTableImpl() {
+    public HashtableImpl() {
         this(16);
     }
 
