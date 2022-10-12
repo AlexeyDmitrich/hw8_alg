@@ -1,2 +1,11 @@
-package a.kamenev.gb.hw;public class Item {
+package a.kamenev.gb.hw;
+public class Item {
+    private int data;
+    public Item(int data){
+        this.data = data;
+    }
+    public int getKey(){
+        return this.data;
+    }
 }
+
